@@ -1,11 +1,9 @@
-# Documentation:
-# https://trovu.net/docs/users/advanced/#custom-configuration
 namespaces:
 - o
 - en
 - .gb
 - github: benrb97
   name: ben
-# defaultKeyword: g 
+defaultKeyword: g
 language: en
 country: gb
