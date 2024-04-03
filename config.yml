@@ -3,9 +3,9 @@
 namespaces:
 - o
 - en
-- .us
-- github: .
-  name: my
+- .gb
+- github: benrb97
+  name: ben
 # defaultKeyword: g 
 language: en
-country: us
+country: gb
